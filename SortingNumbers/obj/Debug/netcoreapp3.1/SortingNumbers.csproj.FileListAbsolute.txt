@@ -1,0 +1,14 @@
+C:\Junior\Курс С# - проекты по С# 2 часть\SortingNumbers\SortingNumbers\bin\Debug\netcoreapp3.1\SortingNumbers.exe
+C:\Junior\Курс С# - проекты по С# 2 часть\SortingNumbers\SortingNumbers\bin\Debug\netcoreapp3.1\SortingNumbers.deps.json
+C:\Junior\Курс С# - проекты по С# 2 часть\SortingNumbers\SortingNumbers\bin\Debug\netcoreapp3.1\SortingNumbers.runtimeconfig.json
+C:\Junior\Курс С# - проекты по С# 2 часть\SortingNumbers\SortingNumbers\bin\Debug\netcoreapp3.1\SortingNumbers.runtimeconfig.dev.json
+C:\Junior\Курс С# - проекты по С# 2 часть\SortingNumbers\SortingNumbers\bin\Debug\netcoreapp3.1\SortingNumbers.dll
+C:\Junior\Курс С# - проекты по С# 2 часть\SortingNumbers\SortingNumbers\bin\Debug\netcoreapp3.1\SortingNumbers.pdb
+C:\Junior\Курс С# - проекты по С# 2 часть\SortingNumbers\SortingNumbers\obj\Debug\netcoreapp3.1\SortingNumbers.csproj.AssemblyReference.cache
+C:\Junior\Курс С# - проекты по С# 2 часть\SortingNumbers\SortingNumbers\obj\Debug\netcoreapp3.1\SortingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Junior\Курс С# - проекты по С# 2 часть\SortingNumbers\SortingNumbers\obj\Debug\netcoreapp3.1\SortingNumbers.AssemblyInfoInputs.cache
+C:\Junior\Курс С# - проекты по С# 2 часть\SortingNumbers\SortingNumbers\obj\Debug\netcoreapp3.1\SortingNumbers.AssemblyInfo.cs
+C:\Junior\Курс С# - проекты по С# 2 часть\SortingNumbers\SortingNumbers\obj\Debug\netcoreapp3.1\SortingNumbers.csproj.CoreCompileInputs.cache
+C:\Junior\Курс С# - проекты по С# 2 часть\SortingNumbers\SortingNumbers\obj\Debug\netcoreapp3.1\SortingNumbers.dll
+C:\Junior\Курс С# - проекты по С# 2 часть\SortingNumbers\SortingNumbers\obj\Debug\netcoreapp3.1\SortingNumbers.pdb
+C:\Junior\Курс С# - проекты по С# 2 часть\SortingNumbers\SortingNumbers\obj\Debug\netcoreapp3.1\SortingNumbers.genruntimeconfig.cache
